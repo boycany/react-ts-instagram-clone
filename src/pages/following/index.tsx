@@ -1,5 +1,10 @@
+import IGHeader from "components/IGHeader";
+
 const Following: React.FC = () => {
-  return <p>Following</p>;
+  return <>
+    <IGHeader />
+    Following
+  </>;
 };
 
 export default Following;
