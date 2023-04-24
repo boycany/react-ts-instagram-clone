@@ -1,9 +1,6 @@
 import React from "react";
 import Item from './Item'
 
-// data for testing in local
-import db from '../../../../../db.json'
-
 const IGStory: React.FC = () => {
 
     //mock data

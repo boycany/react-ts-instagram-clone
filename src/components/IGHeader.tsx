@@ -11,6 +11,7 @@ const IGHeader: React.FC = () => {
                     className="w-[100px] cursor-pointer"
                     src="/images/logo.svg"
                     onClick={() => go('/')}
+                    alt="logo"
                 />
                 <div className="flex items-center">
                     <svg
